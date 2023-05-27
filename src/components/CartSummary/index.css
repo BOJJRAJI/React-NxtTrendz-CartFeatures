@@ -1,0 +1,30 @@
+.summary-container {
+  text-align: right;
+  margin-bottom: 20px;
+}
+.total-heading {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 23px;
+  font-weight: 500;
+}
+.amount {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 23px;
+  font-weight: 500;
+}
+.items-count {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+.check-out-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border: none;
+  padding: 10px;
+  font-family: 'Roboto';
+  border-radius: 7px;
+  width: 150px;
+}
